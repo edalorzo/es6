@@ -1,6 +1,6 @@
-/*-------------------------------------------------------------
- * Traditional solution to the `this` scope problem with `bind`
- *-----------------------------------------------------------*/
+/*---------------------------------------------------
+ * Arrow functions use literal scope
+ *--------------------------------------------------*/
 
  //constructor
 function Prefixer(prefix) {
@@ -8,9 +8,7 @@ function Prefixer(prefix) {
 }
 
 Prefixer.prototype.prefixArray = function(arr) {
-	return arr.map(function(item) { 
-		return self.prefix + item;
-	}.bind(this));
+	return arr.map( item => this.prefix + item );
 };
 
 let men = ['Soto','Brenes','Ramírez'];

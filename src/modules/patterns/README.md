@@ -7,4 +7,4 @@
 * CommonJS
 * AMD
 * ES6 Modules
-* Module Loading with AMD, Browserify and Webpack
+* Module Loading with require.js, Browserify and Webpack

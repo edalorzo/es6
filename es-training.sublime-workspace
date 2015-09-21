@@ -1,0 +1,1095 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"statusText"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"se",
+				"service"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"team",
+				"teamService"
+			],
+			[
+				"rout",
+				"routeProvider"
+			],
+			[
+				"Page",
+				"Page2Controller"
+			],
+			[
+				"fru",
+				"fruitService"
+			],
+			[
+				"Pa",
+				"PageService"
+			],
+			[
+				"sel",
+				"selectedFruit"
+			],
+			[
+				"jq",
+				"jquery"
+			],
+			[
+				"re",
+				"reject"
+			],
+			[
+				"rej",
+				"rejectWith"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"lef",
+				"leftOrder"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"o",
+				"obj1"
+			],
+			[
+				"obj",
+				"obj2"
+			],
+			[
+				"ob",
+				"obj2"
+			],
+			[
+				"wo",
+				"women"
+			],
+			[
+				"pref",
+				"prefixArray"
+			],
+			[
+				"wom",
+				"wonemPrefixer"
+			],
+			[
+				"pre",
+				"prefixArray"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"log",
+				"logArgs"
+			],
+			[
+				"el",
+				"elif	else if"
+			],
+			[
+				"e",
+				"elif	else if"
+			],
+			[
+				"conf",
+				"configureForUnix"
+			],
+			[
+				"con",
+				"configureForUnix"
+			],
+			[
+				"Mo",
+				"ModemConfigurer"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"cus",
+				"customScale"
+			],
+			[
+				"time",
+				"timeAllowed"
+			],
+			[
+				"fet",
+				"fetchFromCache"
+			],
+			[
+				"get",
+				"getInfo"
+			],
+			[
+				"lg",
+				"login"
+			],
+			[
+				"res",
+				"resolve"
+			],
+			[
+				"r",
+				"result"
+			],
+			[
+				"fi",
+				"fileStats"
+			],
+			[
+				"sor",
+				"sortByCreationTime"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"po",
+				"promises"
+			],
+			[
+				"def",
+				"deferred"
+			],
+			[
+				"ad",
+				"admin-script"
+			],
+			[
+				"admin",
+				"admin-gui"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"l",
+				"logger"
+			],
+			[
+				"wr",
+				"writeHead"
+			],
+			[
+				"host",
+				"hostnames"
+			],
+			[
+				"f",
+				"foo"
+			],
+			[
+				"m",
+				"main	main()"
+			],
+			[
+				"cub",
+				"cubiscanLogItem"
+			],
+			[
+				"repl",
+				"replaceLogs"
+			],
+			[
+				"cu",
+				"cubiscanLogItem"
+			],
+			[
+				"cubi",
+				"cubiscanLog"
+			],
+			[
+				"cubisca",
+				"cubiscanLogItem"
+			],
+			[
+				"Pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"str",
+				"str2	 ν"
+			],
+			[
+				"Prin",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"Pri",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"P",
+				"Push	 ƒ"
+			],
+			[
+				"p",
+				"Push	 ƒ"
+			],
+			[
+				"sta",
+				"stack	struct ʈ"
+			],
+			[
+				"fu",
+				"func (*stack)	func (...) {...} ʂ"
+			],
+			[
+				"func",
+				"func	func {...} ʂ"
+			],
+			[
+				"stack",
+				"stackEntry	struct ʈ"
+			],
+			[
+				"New",
+				"NewInt	*big.Int ƒ"
+			],
+			[
+				"Sca",
+				"Scanf	n int, err error ƒ"
+			],
+			[
+				"Forma",
+				"FormatInt	string ƒ"
+			],
+			[
+				"Sc",
+				"Scanf	n int, err error ƒ"
+			],
+			[
+				"c",
+				"cartesianPoint	struct ʈ"
+			],
+			[
+				"Scan",
+				"Scanln	n int, err error ƒ"
+			],
+			[
+				"Mi",
+				"Millisecond	 Ɩ"
+			],
+			[
+				"Sq",
+				"Sqrt	float64 ƒ"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			],
+			[
+				"tom",
+				"tomcatThreadPool"
+			],
+			[
+				"ma",
+				"manager-status"
+			],
+			[
+				"manage",
+				"manager-script"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"per",
+				"person2"
+			],
+			[
+				"i",
+				"iife	(function(){...})()"
+			],
+			[
+				"pers",
+				"person1"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"pe",
+				"person1"
+			],
+			[
+				"perso",
+				"person1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "babel",
+		"selected_items":
+		[
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax:babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"syntax bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"Babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"Sytnax Babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"find",
+				"FindKeyConflicts: Command Search"
+			],
+			[
+				"Find",
+				"FindKeyConflicts: Command Search"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax:Babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"syntax: Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"JDE",
+				"Set Syntax: Jade"
+			],
+			[
+				"markdwo",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle li",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01"
+	],
+	"file_history":
+	[
+		"/Users/edalorzo/Sandbox/personal/learn-webpack/js/css/style.css",
+		"/Users/edalorzo/Sandbox/personal/oboe-streams/js/main.js",
+		"/Users/edalorzo/Desktop/order-api-grep.txt",
+		"/Users/edalorzo/Desktop/auth.xml",
+		"/Users/edalorzo/Sandbox/personal/oboe-streams/Grunfile.js",
+		"/Users/edalorzo/Sandbox/personal/oboe-streams/package.json",
+		"/Users/edalorzo/Sandbox/personal/oboe-streams/Gruntfile.js",
+		"/Users/edalorzo/Sandbox/personal/oboe-streams/index.html",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/src/services/TeamService.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/data/teams.json",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/src/controllers/Page1Controller.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/src/app.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/views/page1.html",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/.gitignore",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/commands.txt",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/Gruntfile.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/Gruntfile.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/js/main.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/src/controllers/Page2Controller.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/src/services/FruitService.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/src/services/PageService.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/package.json",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/dist/controllers/Page2Controller.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/main.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/dist/app.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/index.html",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/js/app/app.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/js/app/services/FruitService.js",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/js/controllers/Page2Controller.js",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/js/services/FruitService.js",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/js/services/PageService.js",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/package.json",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/cmds.txt",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/js/main.js",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/dist/bundle.js",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/build/controllers/Page1Controller.js",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/build/services/FruitService.js",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/js/controllers/Page1Controller.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/js/app/controllers/Page2Controller.js",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/index.html",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/index.js",
+		"/Users/edalorzo/Sandbox/personal/learn-commonjs/views/page1.html",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/js/app/controllers/Page1Controller.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/views/page2.html",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/data/fruits.json",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/js/app/services/PageService.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/js/app/Application.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/js/app/controllers/controllers.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/js/app.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/js/lib/shop.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/js/lib/shirt.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/js/lib/inventory.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/js/lib/cart.js",
+		"/Users/edalorzo/Sandbox/personal/learn-amd/scripts/app.js",
+		"/Users/edalorzo/Desktop/json/MotoSportTim/m0100008589.json",
+		"/Users/edalorzo/Sandbox/teaching/informatech/es6/requirejs/web/app.js",
+		"/Users/edalorzo/Sandbox/teaching/informatech/es6/out/main.js",
+		"/Users/edalorzo/Sandbox/teaching/informatech/es6/out/users.js",
+		"/Users/edalorzo/Sandbox/teaching/informatech/es6/src/users.js",
+		"/Users/edalorzo/Sandbox/teaching/informatech/es6/src/main.js",
+		"/Users/edalorzo/Sandbox/teaching/informatech/es6/browserify/multiply.js",
+		"/Users/edalorzo/Sandbox/teaching/informatech/es6/browserify/square.js",
+		"/Users/edalorzo/Sandbox/teaching/informatech/es6/browserify/index.js",
+		"/Users/edalorzo/Sandbox/teaching/informatech/es6/browserify/index.html",
+		"/Users/edalorzo/Desktop/json/paypal/m4724909.json",
+		"/Users/edalorzo/Desktop/json/paypal/m4724880.json",
+		"/Users/edalorzo/Desktop/json/paypal/m4724881.json",
+		"/Users/edalorzo/Desktop/json/paypal/m4724885.json",
+		"/Users/edalorzo/Desktop/json/paypal/m4724884.json",
+		"/Users/edalorzo/Desktop/json/paypal/m4724888.json",
+		"/Users/edalorzo/Desktop/json/paypal/m4724891.json",
+		"/Users/edalorzo/Desktop/json/paypal/m4724899.json",
+		"/Users/edalorzo/Desktop/json/paypal/m4724901.json",
+		"/Users/edalorzo/Desktop/json/paypal/SQLFix.sql",
+		"/Users/edalorzo/Desktop/json/paypal/PayPalFix.txt",
+		"/Users/edalorzo/Sandbox/teaching/informatech/es6/out/block-scoping/lesson01.js",
+		"/Users/edalorzo/Sandbox/teaching/informatech/es6/src/block-scoping/lesson01.js",
+		"/Users/edalorzo/Desktop/m0100008577.json",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/promise12.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/promise13.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/lesson14.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/lesson15.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/promise11.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/promise10.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/lesson09.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/lesson08.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/lesson07.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/lesson06.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/lesson04.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/lesson05.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/lesson03.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/lesson01.js",
+		"/Users/edalorzo/Sandbox/teaching/es6/prepare01/src/promises/lesson02.js",
+		"/Users/edalorzo/Sandbox/teaching/informatech/es6/src/block-scoping/lesson02.js",
+		"/var/folders/fb/rgmq2c9j2k735x0m12qtyggw0000gn/T/sublime-sftp-browse-1440696768/sanzu/var/lib/interchange/lib/Feeds/Mercent/Order.pm",
+		"/var/folders/fb/rgmq2c9j2k735x0m12qtyggw0000gn/T/sublime-sftp-browse-1440803659/sanzu/var/lib/interchange/lib/Feeds/Mercent/Order.pm",
+		"/Users/edalorzo/.bash_profile",
+		"/Users/edalorzo/.opam/opam-init/init.sh",
+		"/Users/edalorzo/.opam/opam-init/variables.sh",
+		"/Users/edalorzo/Downloads/ocaml-4.02.2/INSTALL",
+		"/var/folders/fb/rgmq2c9j2k735x0m12qtyggw0000gn/T/sublime-sftp-browse-1440768299/sanzu/var/lib/interchange/lib/SharedUtil/ServiceClient/Commerce/Core/Oms/PostOrder.pm",
+		"/var/folders/fb/rgmq2c9j2k735x0m12qtyggw0000gn/T/sublime-sftp-browse-1440697761/sanzu/var/lib/interchange/bcs/util/feeds/mercent/get_orders.pl",
+		"/var/folders/fb/rgmq2c9j2k735x0m12qtyggw0000gn/T/sublime-sftp-browse-1440768907/sanzu/var/lib/interchange/lib/SharedUtil/ServiceClient/Parse/BaseParse.pm",
+		"/var/folders/fb/rgmq2c9j2k735x0m12qtyggw0000gn/T/sublime-sftp-browse-1440768708/sanzu/var/lib/interchange/lib/SharedUtil/ServiceClient/Post/BasePost.pm",
+		"/var/folders/fb/rgmq2c9j2k735x0m12qtyggw0000gn/T/sublime-sftp-browse-1440797602/sanzu/var/lib/interchange/lib/SharedUtil/ServiceClient/Post/OMS/OrderListPoster.pm",
+		"/var/folders/fb/rgmq2c9j2k735x0m12qtyggw0000gn/T/sublime-sftp-browse-1440797551/sanzu/var/lib/interchange/lib/SharedUtil/ServiceClient/Post/OMS/OrderListPoster.pm",
+		"/var/folders/fb/rgmq2c9j2k735x0m12qtyggw0000gn/T/sublime-sftp-browse-1440768415/sanzu/var/lib/interchange/lib/SharedUtil/ServiceClient/Post/Commerce/Core/Oms/OrderListPoster.pm",
+		"/Users/edalorzo/Desktop/json/order.json",
+		"/Users/edalorzo/Documents/Backcountry/Mercent/logs/import.log.23",
+		"/Users/edalorzo/Documents/Backcountry/Mercent/logs/import.log.9",
+		"/Users/edalorzo/Documents/Backcountry/Mercent/orders-import.xsd",
+		"/Users/edalorzo/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/crater",
+		"/Users/edalorzo/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/sanzu",
+		"/Users/edalorzo/Desktop/json/b2300495656.json",
+		"/Users/edalorzo/Desktop/json/b2300485788.json",
+		"/Users/edalorzo/Desktop/commerce.properties",
+		"/Users/edalorzo/Desktop/mercent.json",
+		"/Users/edalorzo/.ssh/config",
+		"/Users/edalorzo/Desktop/json/m4698768.json",
+		"/Users/edalorzo/Desktop/json/b2259420247.xml",
+		"/Users/edalorzo/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/edalorzo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/edalorzo/Desktop/json/m4698769.json",
+		"/Users/edalorzo/Desktop/json/m4698770.json",
+		"/Users/edalorzo/Desktop/json/m4698771.json",
+		"/Users/edalorzo/Desktop/json/m4698772.json",
+		"/Users/edalorzo/Desktop/json/m4698773.json",
+		"/Users/edalorzo/Desktop/json/m4698767.json"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ItemPrice",
+			"ShippingTotal",
+			"order-api",
+			"translateFulfilmentLevel",
+			"translateShipmodeForOrderApi",
+			"translateFulfilmentLevel",
+			" config",
+			");",
+			"iter1",
+			"iter",
+			"';\n",
+			"foo",
+			"y",
+			"36",
+			" function foo(x, y) {\n",
+			"function",
+			"bar",
+			"TroubleModem",
+			"unix",
+			"	\n",
+			"visit",
+			"void visit(Hayes modem);\n	void visit(Ernie modem);\n	void visit(Zoom modem);",
+			"zoom",
+			"foo",
+			"Foo",
+			"foo",
+			"visit",
+			"unix",
+			"Ernie",
+			"print",
+			"i",
+			"chain",
+			"Travel Rewards Card",
+			"pong",
+			"ping",
+			"/db",
+			"vmInfo",
+			"host",
+			"Applications",
+			"credentials",
+			"-\"\n",
+			"[Catalina].[localhost].[/manager]",
+			"sku_class",
+			"\n[",
+			"DiscountModel",
+			"check_geartrade_incoming_orders",
+			"PGPEncryptedDataList     enc;\n        Object                          o = pgpF.nextObject();",
+			"PGPEncryptedDataGenerator encGen = new PGPEncryptedDataGenerator(new JcePGPDataEncryptorBuilder(algorithm).setSecureRandom(new SecureRandom()).setProvider(\"BC\"));",
+			"Channel",
+			" SELECT a.is_tied IS TRUE, b.is_tied IS TRUE\n         INTO bool_from_is_tied, bool_to_is_tied\n         FROM inventory_statuses a, inventory_statuses b\n         WHERE a.status = var_inv_status_from\n                 AND b.status = var_inv_status_to\n                 AND a.relative_tier <= b.relative_tier;\n",
+			"var_inv_status_to",
+			"var_order_number",
+			"shutdown",
+			"string",
+			" >",
+			"\",\n",
+			"tasks",
+			"convertMarkdown",
+			"marked",
+			"[/sourcecode]",
+			"[sourcecode]",
+			"[sourcecode language=\"java\" gutter=\"false\"]",
+			"h3, h4, h5, h6",
+			"indent",
+			"max-width: 7",
+			"<link rel=\"stylesheet\" href=\"{{assetsRelative}}/css/{{theme}}.css\">",
+			"googlecode",
+			"partner",
+			"orderObj",
+			"Payment",
+			"CreditCard",
+			"address",
+			"$cols",
+			"ftp_put_dir",
+			"insert into orders",
+			"ftp_put_dir",
+			"get_file_name",
+			"BillingInfo",
+			"translateFulfilmentLevel",
+			"ShippingInfo",
+			"xsd_name",
+			"person1",
+			");"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"```",
+			"```java"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/edalorzo/Sandbox/go-progs/src/bigdigits":
+	{
+		"height": 249.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "es-training.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"src/demo/WindowsConfigurer.java"
+			],
+			[
+				"ha",
+				"src/demo/Hayes.java"
+			],
+			[
+				"w",
+				"src/demo/WindowsConfigurer.java"
+			],
+			[
+				"",
+				"src/demo/WindowsConfigurer.java"
+			],
+			[
+				"test",
+				"src/demo/TestDrive.java"
+			],
+			[
+				"un",
+				"src/demo/UnixConfigurer.java"
+			],
+			[
+				"uni",
+				"src/demo/UnixConfigurer.java"
+			],
+			[
+				"mo",
+				"src/demo/ModemConfigurer.java"
+			],
+			[
+				"tro",
+				"src/demo/TroubleModem.java"
+			],
+			[
+				"mde",
+				"src/demo/ModemConfigurer.java"
+			],
+			[
+				"tr",
+				"src/demo/TroubleModem.java"
+			],
+			[
+				"zo",
+				"src/demo/Zoom.java"
+			],
+			[
+				"te",
+				"src/demo/TestDrive.java"
+			],
+			[
+				"tes",
+				"src/demo/TestDrive.java"
+			],
+			[
+				"zoom",
+				"src/demo/Zoom.java"
+			],
+			[
+				"mode",
+				"src/demo/Modem.java"
+			],
+			[
+				"bar",
+				"src/demo/Bar.java"
+			],
+			[
+				"baz",
+				"src/demo/Baz.java"
+			],
+			[
+				"ba",
+				"src/demo/Bar.java"
+			],
+			[
+				"fo",
+				"src/demo/Foo.java"
+			],
+			[
+				"jmxproxy",
+				"apache-tomcat-8.0.21-src/java/org/apache/catalina/manager/JMXProxyServlet.java"
+			],
+			[
+				"diagnostics",
+				"apache-tomcat-8.0.21-src/java/org/apache/tomcat/util/Diagnostics.java"
+			],
+			[
+				"managerser",
+				"apache-tomcat-8.0.21-src/java/org/apache/catalina/manager/ManagerServlet.java"
+			],
+			[
+				"managerserv",
+				"apache-tomcat-8.0.21-src/java/org/apache/catalina/manager/ManagerServlet.java"
+			],
+			[
+				".localstring",
+				"apache-tomcat-8.0.21-src/java/org/apache/catalina/manager/LocalStrings.properties"
+			],
+			[
+				"stringmanaer",
+				"apache-tomcat-8.0.21-src/java/org/apache/naming/StringManager.java"
+			],
+			[
+				"statusmanagerser",
+				"apache-tomcat-8.0.21-src/java/org/apache/catalina/manager/StatusManagerServlet.java"
+			],
+			[
+				"htmlserv",
+				"apache-tomcat-8.0.21-src/java/org/apache/catalina/manager/HTMLManagerServlet.java"
+			],
+			[
+				"seten",
+				"tomcat-7.0/bin/setenv.sh"
+			],
+			[
+				"http11protocol",
+				"apache-tomcat-8.0.21-src/java/org/apache/coyote/http11/Http11Protocol.java"
+			],
+			[
+				"j",
+				"book/code/examples/JSON.g4"
+			],
+			[
+				"check_geartrade_order",
+				"remoteSettings/salt_nagios/nrpe_checks/check_geartrade_order.pl"
+			],
+			[
+				"nrpe.cfg.newroo",
+				"remoteSettings/salt_nagios/nrpe.cfg.newrootdb"
+			],
+			[
+				"nrp",
+				"remoteSettings/salt_nagios/nrpe.cfg"
+			],
+			[
+				"integrato",
+				"business/src/main/resources/integration-context.xml"
+			],
+			[
+				"withorderlinemap",
+				"business/src/main/java/com/backcountry/supplychain/orderapi/business/builders/domain/ri/WithOrderLineMapper.java"
+			],
+			[
+				"toorderlinemap",
+				"business/src/main/java/com/backcountry/supplychain/orderapi/business/builders/domain/ri/ToOrderLineMapper.java"
+			],
+			[
+				"defaultorderservice",
+				"business/src/main/java/com/backcountry/supplychain/orderapi/business/service/DefaultOrderService.java"
+			],
+			[
+				"defaultordermanager",
+				"business/src/main/java/com/backcountry/supplychain/orderapi/business/service/generator/id/order/DefaultOrderIdManagementService.java"
+			],
+			[
+				"gradle",
+				"build.gradle"
+			],
+			[
+				"typehelper",
+				"business/src/main/java/com/backcountry/supplychain/orderapi/business/integration/TypeHelper.java"
+			],
+			[
+				"pgpliter",
+				"pg/src/main/j2me/org/bouncycastle/openpgp/PGPLiteralDataGenerator.java"
+			],
+			[
+				"pgpli",
+				"pg/src/main/java/org/bouncycastle/openpgp/PGPLiteralData.java"
+			],
+			[
+				"nothttpresponse",
+				"httpcomponents-client-4.2/httpclient/src/main/java/org/apache/http/client/HttpResponseException.java"
+			],
+			[
+				"connpoolbyroute.java",
+				"httpcomponents-client-4.2/httpclient/src/main/java/org/apache/http/impl/conn/tsccm/ConnPoolByRoute.java"
+			],
+			[
+				"defaulto",
+				"src/main/java/com/backcountry/commerce/core/oms/service/DefaultOrderService.java"
+			],
+			[
+				"shippinga",
+				"domain/src/main/java/com/backcountry/supplychain/fulfillment/domain/ShippingAttribute.java"
+			],
+			[
+				"shippingattributec",
+				"web/src/main/java/com/backcountry/supplychain/fulfillment/ws/shippingAttribute/controller/ShippingAttributeController.java"
+			],
+			[
+				"shippingattributema",
+				"domain/src/main/java/com/backcountry/supplychain/fulfillment/mappers/ShippingAttributeMapper.java"
+			],
+			[
+				"defaultshi",
+				"business/src/main/java/com/backcountry/supplychain/fulfillment/service/product/DefaultShippingAttributeService.java"
+			],
+			[
+				"dims",
+				"src/main/java/com/backcountry/supplychain/fulfillment/db/entity/DimsWeightsEntity.java"
+			],
+			[
+				"dimsw",
+				"src/main/java/com/backcountry/supplychain/fulfillment/service/client/ats/xml/DimsWeightsParser.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
